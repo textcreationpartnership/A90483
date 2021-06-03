@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect relation of severall remarkable passages, which passed betwixt the Kings most Excellent Majesty, and the Commissioners, the last fast-day at Holmby, about the Directory and forme of prayer. And His Maiesties resolution therein. Also, some other passages of note, concerning the Kings Majesty, and the Earl of Pembroke upon Sunday last, upon his Majesties giving this worthy peer a visite, as he lay upon his death-bed. With divers other remarkable occurrences from the kingdomes of Scotland and Ireland.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90483</idno><idno type="EEBO-CITATION">99861909</idno>
+  <idno type="VID">159977</idno>
+  <idno type="EEBO-PROQUEST">2248522653</idno>
+  
+            <idno type="STC">Wing P1507</idno>
+            <idno type="STC">Thomason E378_24</idno>
+            <idno type="STC">ESTC R201389</idno>
+            <idno type="PROQUEST">99861909</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861909e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90483)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159977)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 60:E378[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect relation of severall remarkable passages, which passed betwixt the Kings most Excellent Majesty, and the Commissioners, the last fast-day at Holmby, about the Directory and forme of prayer. And His Maiesties resolution therein. Also, some other passages of note, concerning the Kings Majesty, and the Earl of Pembroke upon Sunday last, upon his Majesties giving this worthy peer a visite, as he lay upon his death-bed. With divers other remarkable occurrences from the kingdomes of Scotland and Ireland.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H.R.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="uniform_title">Directory for the publique worship of God throughout the three kingdoms of England, Scotland, and Ireland --  Early works to 1800.</term>
+               <term type="topical_term">Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159977:1"/>
+            <p>A PERFECT RELATION OF Severall Remarkable Passages, which passed betwixt the Kings most Excellent Majesty, and the Commissioners, the last Fast-Day at Holmby, about the Directory and Forme of Prayer.</p>
+            <p>
+               <hi>And His Maiesties Resolution therein.</hi>
+            </p>
+            <p>
+               <hi>ALSO,</hi> Some other Passages of Note, concerning the K<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs Maj<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty, and the Earl of Pembroke upon Sunday last, upon hi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majesties giving this worthy Peer a Visite, as he lay upon his Death-bed.</p>
+            <p>With divers other remarkable Occurrences from the Kingdomes of Scotland and Ireland.</p>
+            <p>
+               <hi>Published by Authority,</hi> March. 5.</p>
+            <p>
+               <hi>London, Printed for H. R,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:159977:2"/>
+            <pb facs="tcp:159977:2"/>
+            <head>Another MESSAGE FROM HOLMBY.</head>
+            <p>HOLMBY (the chiefe and sole Object of the Kingdome, as the affaires now stand) is the only place upon which we fix our eyes, by reason of the residence of our Soveraign, and the great businesse of the whole Kingdome, now in dispute betwixt his Majesty, and his Great Counc<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l, assembled in the high and honourable Court at West<g ref="char:EOLhyphen"/>minster,
+<pb facs="tcp:159977:3"/> for the composing of all differences within his Majesties Realmes and Domini<g ref="char:EOLhyphen"/>ons.</p>
+            <p>Therefore, for generall satisfaction of the Kingdome of <hi>England,</hi> and Dominion of <hi>Wales,</hi> I shall here (briefly) insist upon, the King<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omes <hi>Occurrences,</hi> proceeding from his Majesties Royal Court at <hi>Holmby,</hi> communi<g ref="char:EOLhyphen"/>cating the remarkablest <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>assages, and chiefest Observations, which hath p<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ssed betwixt the Kings most excellent Maj<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty, the Commis<g ref="char:EOLhyphen"/>sioners, and the English Divines, about com<g ref="char:EOLhyphen"/>posing of the Kingdomes Grievances, and setling the dis<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ractions both of Church and State; which (indeed) will be a gallant work when once <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected.</p>
+            <p>And therefore in the first place, I shall give you the Kings Maiesties Message and Propo<g ref="char:EOLhyphen"/>sitions to the house of Peeres, wherin is pro<g ref="char:EOLhyphen"/>posed his Maiesties Desires, concerning the present state and condition of His Royall Court at Holmby, <hi>viz.</hi>
+            </p>
+            <p>1. That their Lordships would be plea<g ref="char:EOLhyphen"/>sed to condescend to his Maiesties Desires for the granting of a competent number of
+<pb facs="tcp:159977:3"/> Domestic Servants. And 2. That their Lord<g ref="char:EOLhyphen"/>ships would be pleased, to admit of such ser<g ref="char:EOLhyphen"/>vants, as are specified in the List, and such as his Maiesty shall make choyce of, <hi>namely</hi> Ma<g ref="char:EOLhyphen"/>ste<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of his Horse, Querries, &amp;c.</p>
+            <p>His Maiesty is in health, and very pleasant, (yet not so merry, as formerly, by reason of the great weaknesse of the Earl of Pembroke) His Maies<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hath many Discourses with the Commissioners, and hath declared his reso<g ref="char:EOLhyphen"/>lution to them.</p>
+            <p>Th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Kings Maiesty was earnestly desired by the Commissioners to keep the Fast upon Wednesday last, as being a thing consented to by himself, or past by Act of Parliament, and for the distressed Kingdome of Ireland; His Maiesty was content to fast, but hee would not joyn in the prayers, because they were not by him <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onsented unto.</p>
+            <p>Vpon Sunday last, (after Sermon) the Kings Maiesty visited the Earl of <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>roke, and coming to his bed side, shaked his head, asking him how he did, being much gri<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ved at his sicknesse; who (indeed) by <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dangerous sick, for which, the for <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>owes of England are</p>
+            <pb facs="tcp:159977:4"/>
+            <p>Mr. Marshrl, and Mr. Caril, hath had ano<g ref="char:EOLhyphen"/>ther Conference with the King, about the Directory, Presbyterian Government, and the Worship now set up within this Kingdom; yet no wayes can prevaile with his Maiesty for the perfecting of that happy Work, that all true subiects desire to hear of.</p>
+            <p>But his Maiesty hath again made Reply and Answer to them, declaring, that untill such time, that some of the Bishops and Do<g ref="char:EOLhyphen"/>ctors, which he formerly desired, were sent unto him, he could not be satisfied in Con<g ref="char:EOLhyphen"/>science, and therefore desired, that they might be hastened down with all expediency.</p>
+            <p>His Maiesty in his vacant houres remaines very pleasant, often desiring some familiar discourse with his Nobles and Peeres now attending his Royall Person, which (indeed) they have.</p>
+            <p>It is said, the King desires to remove His Court more Southward, and to come some<g ref="char:EOLhyphen"/>what neerer London.</p>
+            <p>Here is great resort of people, but none admitted to the presence of the King, order being given, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat none shal presume to come <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eer the Court, but such that are imployed
+<pb facs="tcp:159977:4"/> by the Authority of both houses of Parlia<g ref="char:EOLhyphen"/>ment, for the safeguard of his Maiesties Roy<g ref="char:EOLhyphen"/>all person.</p>
+            <p>Thus having given you the remarkablest passages now in dispence at Holmby, <hi>I</hi> shall in the next place, insert one passage of note, for satisfaction both of the adiacent and re<g ref="char:EOLhyphen"/>motest Counties within the Kingdome of England, as followeth:</p>
+            <p>A Petition was presented to the house subscribed in the name of a great number of the Apprentices of <hi>London</hi> (a<g ref="char:EOLhyphen"/>mongst other things setting forth by way of agrievance the too much prevalency of that Party, who have dealt in the late wars) declared themselves disaffected to the peace, and welfare of the Kingdom, who seem to be in hopes of obtai<g ref="char:EOLhyphen"/>ning that by policy which they have not been able to doe by force. Cunningly contriving to aggravate and encrease dif<g ref="char:EOLhyphen"/>ferences betweene the well-affected party, and striving to bring an <hi>Odium</hi> upon all good men, under the distinction of severall tearms of obliquie and disgrace by such subt<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e en<g ref="char:EOLhyphen"/>deavours, labouring to avert the edge of Justice from them<g ref="char:EOLhyphen"/>selves (who come deservedly under the stroke of it, and to turn it upon those who are most innocent. Strongly endea<g ref="char:EOLhyphen"/>vouring (and have already affected it in part, to justle all ho<g ref="char:EOLhyphen"/>nest, faithful, and wel-affected men out of places of trust, of<g ref="char:EOLhyphen"/>fice and authority, and to put in Newters, Ambodexters, or persons apparently disaffected.</p>
+            <p>In the next place, I ssiall close, and sum up all, with some particular Observations about the Kingdome of Ireland, which followeth in these words.<gap reason="missing" extent="1+ pages">
+                  <desc>〈1+ pages missing〉</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:159977:5"/>
+            <p>Letters from Ireland to the Parliament, laid open the necessity of Supplies for reducing of that distres<g ref="char:EOLhyphen"/>sed Kingdom, pressing the Parliament with much ear<g ref="char:EOLhyphen"/>nesse to hasten reliefe to them, of which they were not unmindfull before, and therefore to satisfie those wor<g ref="char:EOLhyphen"/>thy persons, which importuned all this while by Let<g ref="char:EOLhyphen"/>terr, The House ordered that the Messenger which brought these Letters should speedily return to those that sent him, and signifie to them, that the Parliament of England have a speciall care in using all possible meanes to hasten over the desired Forces and have ta<g ref="char:EOLhyphen"/>ken speciall order, that the Contents of these Letters be effectually answered.</p>
+            <p>Ordered that such Armes as can bee spared, shall forthwith be sent for the reliefe of Ireland, and that the Committee for those Af<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aires, give an account what forces are <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n a readinesse to go over thither.</p>
+            <p>Directions are ordered to be sent to the Lord Lieu<g ref="char:EOLhyphen"/>tenant of Ireland (who is shipt for Ireland) and the L. Inchiqueen, to consumate the businesse.</p>
+            <p>Letters out of Scotland certifie, that the Parliament of that Kingdome having disbanded the r<gap reason="illegible" resp="#murp" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ced Sol<g ref="char:EOLhyphen"/>diers and Officers, and stablished the New Modell, are now setting the Excise for maintaining the vast ex<g ref="char:EOLhyphen"/>pence they are like to be at, in driving the revolving Party out of the Mountaines, and repairing the great losses of those which have suffered for their good af<g ref="char:EOLhyphen"/>fec<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion to the common Cause, in which both King<g ref="char:EOLhyphen"/>domes are engaged.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
